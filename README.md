@@ -1,9 +1,9 @@
-# [My Portfolio](https://sahil-bhanvadiya.github.io/portfolio/)
+# [My Portfolio](https://srkaneriya.github.io/portfolio/)
 
 ![portfolio](https://github.com/srkaneriya/portfolio/blob/main/image.png?raw=true)
 
 **Portfolio**
-Live Preview - [Click Here](https://sahil-bhanvadiya.github.io/myportfolio/)
+Live Preview - [Click Here](https://srkaneriya.github.io/portfolio/)
 
 # 🛠 Installation and Setup Instructions
 

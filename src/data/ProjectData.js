@@ -15,7 +15,7 @@ export const ProjectList = [
     description: "Portfolio made from using React.js",
     tech_stack: "Html, Css, React.js",
     github_url: "https://github.com/srkaneriya/portfolio",
-    demo_url: "https://github.com/srkaneriya",
+    demo_url: "https://srkaneriya.github.io/portfolio/",
 
   },
 ];
