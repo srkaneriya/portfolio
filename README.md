@@ -1,4 +1,4 @@
-# [My Portfolio](https://sahil-bhanvadiya.github.io/myportfolio/)
+# [My Portfolio](https://sahil-bhanvadiya.github.io/portfolio/)
 
 ![portfolio](https://github.com/srkaneriya/portfolio/blob/main/image.png?raw=true)
 
