@@ -2,7 +2,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/sahil-bhanvadiya/case-converter/main/cc.PNG",
+    img: "https://raw.githubusercontent.com/srkaneriya/case-converter/main/image.png",
     title: "Case Converter",
     description: "Case Converter is a word counter and a character counting utility which can be used to manipulate your text in the way you want.",
     tech_stack: "Html, Css, React.js",
@@ -10,11 +10,11 @@ export const ProjectList = [
     demo_url: "https://srkaneriya.github.io/case-converter/",
   },
   {
-    img: "https://raw.githubusercontent.com/sahil-bhanvadiya/myportfolio/main/port.PNG",
+    img: "https://raw.githubusercontent.com/srkaneriya/portfolio/main/image.png",
     title: "My Portfolio",
     description: "Portfolio made from using React.js",
     tech_stack: "Html, Css, React.js",
-    github_url: "https://github.com/srkaneriya",
+    github_url: "https://github.com/srkaneriya/portfolio",
     demo_url: "https://github.com/srkaneriya",
 
   },
